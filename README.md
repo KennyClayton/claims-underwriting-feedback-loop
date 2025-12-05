@@ -4,6 +4,47 @@
 
 A property insurance system that creates a feedback loop between claims data and underwriting decisions, enabling data-driven risk assessment and reducing loss ratios through intelligent risk scoring.
 
+### Personal Growth
+
+📚 My Knowledge Gaps in the Underwriting Domain:
+
+  ✅ I understand claims (strength)
+  
+  ⚠️ Gap: Underwriting guidelines and appetites (what makes a risk acceptable vs. not)
+  
+  ⚠️ Gap: Rating engines and premium calculation formulas
+  
+  ⚠️ Gap: Reinsurance concepts (how companies offload risk)
+
+
+Technologies:
+
+  ✅ I'm brushing  up on SQL and .NET
+  
+  ✅ I have three years of exposure to Guidewire as a user (ClaimCenter and PolicyCenter)
+  
+  ⚠️ Gap: Policy administration systems (Duck Creek, Guidewire, Insurity)
+  
+  ⚠️ Gap: Limited exposure to API integrations (how systems talk to each other)
+  
+  ⚠️ Gap: Data warehousing concepts (where historical data lives)
+
+
+Business/Systems Analyst Skills:
+
+  ✅ Currently doing requirements gathering (this project!)
+  
+  ✅ Currently creating diagrams and documentation
+  
+  ⚠️ Gap: Writing formal BRDs (Business Requirements Documents)
+  
+  ⚠️ Gap: Process flow mapping (BPMN diagrams)
+  
+  ⚠️ Gap: UAT (User Acceptance Testing) planning
+
+
+  What I'm learning NOW in this project is valuable to employers.
+
 ## Problem Statement
 
 Current property insurance systems operate with underwriting and claims departments in silos. Underwriters make risk decisions based on static guidelines and limited historical context, while valuable claims data that could inform better underwriting decisions remains isolated in separate systems. This disconnect leads to:
